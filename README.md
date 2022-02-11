@@ -5,7 +5,7 @@
 
 <h1>My First Heading</h1>
 
-<p>My first project</p>
+<p>My first project of git</p>
 
 </body>
 </html>
